@@ -1,1 +1,2 @@
-# CLASS-41
+# synchronousBallMovement
+Ball moving synchronously
